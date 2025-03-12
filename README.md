@@ -2,13 +2,14 @@
 
 💻 Desenvolvedor Fullstack | Foco em Frontend  
 🎓 Licenciando em Computação pelo IFPE - Afogados da Ingazeira  
+📑 Iniciado em Pesquisa Científica e Docência  
 🚀 Apaixonado por tecnologia e ensino  
 🎨 Designer - Visual / Motion / UI
 
----
+
 
 Sou apaixonado por tecnologia, design e aprendizado contínuo. 
-Atualmente, estou cursando **Licenciatura em Computação no Instituto Federal de Pernambuco (IFPE)** e sempre explorando novas formas de criar experiências incríveis na web e além.
+Atualmente, estou cursando **Licenciatura em Computação no Instituto Federal de Pernambuco (IFPE)** explorando novas formas de criar e compartilhar experiências incríveis na web e além.
 Aberto à freelancers e buscando me encontrar no mercado digital.
 
 ---
