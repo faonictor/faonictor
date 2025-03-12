@@ -1,7 +1,5 @@
 # Olá, sou </ João Victor> 👾
 
----
-
 💻 Desenvolvedor Fullstack | Foco em Frontend  
 🎓 Licenciando em Computação pelo IFPE - Afogados da Ingazeira  
 🚀 Apaixonado por tecnologia e ensino  
