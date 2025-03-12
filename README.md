@@ -3,8 +3,8 @@
 ---
 
 💻 Desenvolvedor Fullstack | Foco em Frontend  
-🎓 Licenciando em Computação pelo IFPE - Afogados da Ingazeira
-🚀 Apaixonado por tecnologia e ensino
+🎓 Licenciando em Computação pelo IFPE - Afogados da Ingazeira 
+🚀 Apaixonado por tecnologia e ensino 
 🎨 Designer - Visual / Motion / UI
 
 ---
