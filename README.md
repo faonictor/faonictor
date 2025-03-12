@@ -34,7 +34,7 @@ Aberto à freelancers e buscando me encontrar no mercado digital.
 ## 💡 **Áreas correlacionadas da tecnologia que me interessam**  
 Além do desenvolvimento web, gosto de explorar outras áreas que me inspiram:  
 🎨 **Pixel Art** – Criar animações e despertar o lado criativo.  
-🎮 **Game Design** – Experimentar mecânicas de jogos e criar protótipos interativos digitais e analógicos.
+🎮 **Game Design** – Experimentar mecânicas de jogos e criar protótipos interativos digitais e analógicos.  
 🧠 **Psicologia & UX Research** – Entender o comportamento humano para melhorar experiências digitais.
 
 ---
