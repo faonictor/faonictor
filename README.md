@@ -49,6 +49,6 @@ Fora do código, gosto de explorar outras paixões:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faonictor&show_icons=true&theme=radical)
   
 🔗 **Conecte-se comigo:**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/faonictor/)
 [![Portfólio](https://img.shields.io/badge/-Portfólio-black?style=flat-square&logo=web)](https://portfólio-em-desenvolvimento.com)
 
