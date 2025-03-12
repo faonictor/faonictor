@@ -12,7 +12,6 @@ Sou apaixonado por tecnologia, design e aprendizado contínuo.
 Atualmente, estou cursando **Licenciatura em Computação no Instituto Federal de Pernambuco (IFPE)** explorando novas formas de criar e compartilhar experiências incríveis na web e além.
 Aberto à freelancers e buscando me encontrar no mercado digital.
 
----
 
 ## 🚀 **Tecnologias que utilizo**  
 
@@ -28,7 +27,6 @@ Aberto à freelancers e buscando me encontrar no mercado digital.
 ### 🛠️ **Ferramentas**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
----
 
 ## 💡 **Áreas correlacionadas da tecnologia que me interessam**  
 Além do desenvolvimento web, gosto de explorar outras áreas que me inspiram:  
@@ -36,7 +34,6 @@ Além do desenvolvimento web, gosto de explorar outras áreas que me inspiram:
 🎮 **Game Design** – Experimentar mecânicas de jogos e criar protótipos interativos digitais e analógicos.  
 🧠 **Psicologia & UX Research** – Entender o comportamento humano para melhorar experiências digitais.
 
----
 
 ## 🎮 **Minhas atividades além da vida profissional**  
 Fora do código, gosto de explorar outras paixões:  
@@ -44,7 +41,6 @@ Fora do código, gosto de explorar outras paixões:
 🎵 **Música sempre presente** – Música Predileta: Dogs - PinkFloyd  
 📖 **Leitura e aprendizado** – Lendo Atualmente: Ultra-Aprendizado - Sccot H. Young
 
----
 
 ## 📊 Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faonictor&show_icons=true&theme=radical)
